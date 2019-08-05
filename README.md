@@ -1,11 +1,10 @@
-# MPWR_m
-Optimal joint segmentation of multivariate time-series with a Multiple Piece-Wise Regression model (MPWR)
+MPWR
 
 A multiple polynomial piecewise regression model for the optimal segmentation of a
 multivariate time series with regime changes. It uses MLE for the estimation of the regression parameters with
 dynamic programming for the segmentation.
 
-by Faicel Chamroukhi since Decembre 2008.
+by Faicel Chamroukhi Decembre 2008.
 
 % Please cite the following papers for this code:
 
@@ -49,4 +48,4 @@ by Faicel Chamroukhi since Decembre 2008.
 
 ```
 
-Faicel Chamroukhi since Decembre 2008.
+Faicel Chamroukhi Decembre 2008.
